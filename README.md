@@ -4,7 +4,7 @@ This was my AI in Business course project in Haaga-Helia University of Applied S
 information. Because of that I did download Brazilian forest fire data from address <br />
 <a href="https://www.kaggle.com/gustavomodelli/forest-fires-in-brazil">https://www.kaggle.com/gustavomodelli/forest-fires-in-brazil</a>.<br />
 
-Because this data did not contain weather information, so I downloaded weather data from address<br /> 
+Weather information I downloaded from address<br /> 
 <a href="https://www.kaggle.com/saraivaufc/automatic-weather-stations-brazil?select=automatic_weather_stations_inmet_brazil_2000_2021.csv">
 https://www.kaggle.com/saraivaufc/automatic-weather-stations-brazil?select=automatic_weather_stations_inmet_brazil_2000_2021.csv</a>.<br /> 
 
